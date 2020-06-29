@@ -4,8 +4,8 @@
 npm start
 
 #How to access in Web
-http://localhost:3000
+http://localhost:3000/headers
 
 #How to access in Android WebView
-http://10.0.2.2:3000
+http://10.0.2.2:3000/headers
 
